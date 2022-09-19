@@ -4233,12 +4233,12 @@ anu = `Hay Kak ${pushname} 👋 Selamat ${salam}
 let btn = [{
 urlButton: {
 displayText: 'Sc Bot',
-url: 'https://Instagram.com/fauzibeban__'
+url: 'https://youtube.com/c/YosokaNesia'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+6287837703726'
+phoneNumber: '+6285891634201'
 }
 }, {
 quickReplyButton: {
@@ -4282,7 +4282,7 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
@@ -4347,13 +4347,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4428,13 +4428,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4502,12 +4502,12 @@ anu = `Hay Kak ${pushname} 👋 Selamat ${salam}
 let btn = [{
 urlButton: {
 displayText: 'YouTube',
-url: 'https://Instagram.com/fauzibeban__'
+url: 'https://youtube.com/c/YosokaNesia'
 }
 }, {
 callButton: {
 displayText: 'Wa Owner',
-phoneNumber: 'wa.me/+6287837703726'
+phoneNumber: 'wa.me/+6285891634201'
 }
 }, {
 quickReplyButton: {
@@ -4521,7 +4521,7 @@ id: 'allmenu'
 }  
 }, {
 quickReplyButton: {
-displayText: '𝙁𝘼𝙐𝙕𝙄𝍨',
+displayText: 'ꪶ𝒀𝑶𝑺𝑶𝑲𝑨𝑵𝑬𝑺𝑰𝑨🜏ꫂ',
 id: 'sc'
  }
 }]
@@ -4586,13 +4586,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4644,13 +4644,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__."
+   "url": "https://youtube.com/c/YosokaNesia."
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4712,13 +4712,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4785,13 +4785,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4858,13 +4858,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
@@ -4966,13 +4966,13 @@ hydratedContentText: anu,
  hydratedButtons: [{  
  "urlButton": {
    "displayText": "Sc Bot",
-   "url": "https://Instagram.com/fauzibeban__"
+   "url": "https://youtube.com/c/YosokaNesia"
  }
   },
   {
  "callButton": {
    "displayText": "Call Owner",
-   "phoneNumber": "+6287837703726"
+   "phoneNumber": "+6285891634201"
  }
   },
   {
